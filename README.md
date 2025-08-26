@@ -2,8 +2,9 @@
 ![test](https://media1.tenor.com/m/2yeCvRKKWL0AAAAd/spongebob-work.gif)
 ## About Me 📍
 
-```yaml
-Studying Computer Science & Software Development
+```python
+fields_of_study = ("Computer Science", "Software Development")
+programming_languages = ("Python", "Java", "C", "C#")
 ```
 *** 
 
