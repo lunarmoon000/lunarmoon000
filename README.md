@@ -4,7 +4,7 @@
 
 ```python
 fields_of_study = ("Computer Science", "Software Development")
-programming_languages = ("Python", "Java", "C", "C#")
+programming_languages = ("Python", "R", "Java", "C", "C#")
 ```
 *** 
 
