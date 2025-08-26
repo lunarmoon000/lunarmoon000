@@ -1,6 +1,12 @@
-## Hi there 👋
-
+# Hello There 👻
 ![test](https://media1.tenor.com/m/2yeCvRKKWL0AAAAd/spongebob-work.gif)
+## About Me 📍
+
+```yaml
+Studying Computer Science & Software Development
+```
+*** 
+
 <!--
 **lunarmoon000/lunarmoon000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
