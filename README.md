@@ -1,5 +1,5 @@
 # Hello There 👻
-![test](https://media1.tenor.com/m/2yeCvRKKWL0AAAAd/spongebob-work.gif)
+![main_gif](https://media1.tenor.com/m/2yeCvRKKWL0AAAAd/spongebob-work.gif)
 ## About Me 📍
 
 ```python
@@ -18,6 +18,10 @@ programming_languages = ("Python", "R", "Java", "C", "C#")
 
 ***
 ![](https://komarev.com/ghpvc/?username=lunarmoon000)
+
+![comic](https://imgs.xkcd.com/comics/computer_problems.png)
+
+[(source: xkcd.com)](https://xkcd.com/)
 
 
 <!--
