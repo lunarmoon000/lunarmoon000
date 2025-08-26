@@ -19,7 +19,10 @@ programming_languages = ("Python", "R", "Java", "C", "C#")
 ***
 ![](https://komarev.com/ghpvc/?username=lunarmoon000)
 
-![comic](https://imgs.xkcd.com/comics/computer_problems.png)
+<p align="centre">
+<img src="https://imgs.xkcd.com/comics/computer_problems.png" />
+</p>
+
 
 [(source: xkcd.com)](https://xkcd.com/)
 
